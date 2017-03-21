@@ -1,0 +1,15 @@
+{
+  "name": "wikipedia_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "livereload ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "livereload": "^0.6.2"
+  }
+}
